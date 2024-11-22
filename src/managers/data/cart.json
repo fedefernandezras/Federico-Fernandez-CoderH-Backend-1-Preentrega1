@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "products": [
+      {
+        "product": "ff1990ba-2425-41c6-9c18-c06ody687is3",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "products": [
+      {
+        "product": "ff1990ba-2425-41c6-9c18-c06ody687is3",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "products": []
+  }
+]
